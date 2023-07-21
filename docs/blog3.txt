@@ -1,0 +1,12 @@
+Strings
+A String in Java is a Object that holds multiple characters. It is not a primitive datatype.
+
+A String can be created by placing characters between a pair of double quotes (").
+
+To compare Strings, the equals() method must be used instead of the primitive equality comparator ==.
+
+int Data Type
+In Java, the int datatype is used to store integer values. This means that it can store all positive and negative whole numbers and zero.
+
+char Data Type
+In Java, char is used to store a single character. The character must be enclosed in single quotes.
